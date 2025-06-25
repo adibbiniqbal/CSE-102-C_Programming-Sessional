@@ -75,5 +75,5 @@ This repository is intended for educational use and reflects the practical cours
 ## 👤 Author
 
 **Adib Bin Iqbal**  
-Undergraduate Student, Department of CSE  
+Department of CSE, BUET 
 [GitHub Profile](https://github.com/adibbiniqbal)

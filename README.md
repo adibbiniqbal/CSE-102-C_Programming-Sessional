@@ -72,8 +72,10 @@ This repository is intended for educational use and reflects the practical cours
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Adib Bin Iqbal**  
-Department of CSE, BUET 
-[GitHub Profile](https://github.com/adibbiniqbal)
+Department of Computer Science and Engineering  
+Bangladesh University of Engineering and Technology (BUET)  
+📧 Email: adibbiniqbal@gmail.com  
+🌐 GitHub: [github.com/adibbiniqbal](https://github.com/adibbiniqbal)
